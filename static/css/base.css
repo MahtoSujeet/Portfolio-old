@@ -1,5 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+  border: 0;
   box-sizing: border-box;
+  color: whitesmoke;
+  font-family: 'Fredoka', sans-serif;
+  /* font-size: 150%; */
+}
+
+html {
+  background-color: #333;
 }
