@@ -1,0 +1,17 @@
+.banner {
+  /* background-image: url("../img/chess-sqaure.jpg"); */
+  /* background-size: cover; */
+  height: 70vh;
+}
+
+.wrap {
+    display: inline-block;
+    position: relative;
+}
+
+.wrap img + .content {
+  width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
