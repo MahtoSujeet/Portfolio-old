@@ -39,6 +39,9 @@
 
 .my-intrests__heading {
   font-size: 3rem;
+  background-color:  rgb(70, 50, 50);
+  border-radius: 20px;
+  padding: 5%;
 }
 
 
@@ -58,7 +61,23 @@
   width: 30vh;
   margin-top: 80px;
   background-color: Pink;
+  background-position: center;
+  background-size: cover;
   border-radius: 50%;
 }
 
+.programming-icon {
+  background-image: url("../img/programming_icon.png");
+}
 
+.languages-icon {
+  background-image: url("../img/languages-icon.png");
+}
+
+.chess-icon {
+  background-image: url("../img/chess-icon.jpeg");
+}
+
+.reading-icon {
+  background-image: url("../img/reading-icon.jpeg");
+}
